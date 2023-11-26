@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Alarms</string>
+    <string name="date_time_format">%s\n%s</string>
+</resources>
